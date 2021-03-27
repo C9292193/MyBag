@@ -1,2 +1,7 @@
-{["m.pomowx.com",
-"www.1kanshu.cc"]}
+
+{
+    "sites": [
+    { "name":"pomowx" , "url":"m.pomowx.com" }, 
+    { "name":"1kanshu" , "url":"www.1kanshu.cc" }
+    ]
+}
